@@ -34,7 +34,7 @@ GIF created with [LiceCap](http://www.cockos.com/licecap/).
 
 ## My GIF here: 
 
-<img src ="https://recordit.co/hk7iH8RBgZ" width =250><br>
+<img src ="https://recordit.co/IEcwsrkiye" width =250><br>
 
 ## Notes
 
